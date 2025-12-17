@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deegeek/nodejs-curl-impersonate.git"
+    "url": "git+https://github.com/geminigeek/nodejs-curl-impersonate.git"
   }
 }
