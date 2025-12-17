@@ -1,4 +1,4 @@
-# node-curl-impersonate
+# nodejs-curl-impersonate
 
 curl-impersonate for node
 

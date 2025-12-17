@@ -1,5 +1,5 @@
 {
-  "name": "@deegeek/node-curl-impersonate",
+  "name": "nodejs-curl-impersonate",
   "version": "1.0.1",
   "description": "A Node wrapper around cURL-impersonate, a binary which can be used to bypass TLS fingerprinting.",
   "main": "dist/index.js",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deegeek/curl-impersonate-node.git"
+    "url": "https://github.com/deegeek/nodejs-curl-impersonate.git"
   }
 }
