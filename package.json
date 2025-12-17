@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-curl-impersonate",
+  "name": "@deegeek/nodejs-curl-impersonate",
   "version": "1.0.1",
   "description": "A Node wrapper around cURL-impersonate, a binary which can be used to bypass TLS fingerprinting.",
   "main": "dist/index.js",
